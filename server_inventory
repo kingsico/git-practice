@@ -1,0 +1,3 @@
+#!/nin/bash
+ssh to server
+sudo -i
